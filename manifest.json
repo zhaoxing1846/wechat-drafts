@@ -1,6 +1,16 @@
 {
   "jobs": [
     {
+      "id": "jung2026-aons",
+      "title": "具有感觉适应能力的人工智能嗅觉神经系统",
+      "paper": "Jung et al., Nature Communications (2026) 17:9963, DOI 10.1038/s41467-026-76918-1",
+      "created_at": "2026-11-22T14:25:00+08:00",
+      "sha256": "77541a58b0916926bae188340b9d80ce749c4943381eafe79f55af2d66826c43",
+      "size_bytes": 2034716,
+      "format": "zip-base64",
+      "path": "jobs/jung2026-aons/package.zip.b64"
+    },
+    {
       "id": "wang2023-v2",
       "title": "基于忆阻器的人工嗅觉系统：模拟器官损伤与空气净化",
       "paper": "Wang et al., ACS Sensors 2023, 8, 4810-4817, DOI 10.1021/acssensors.3c02217",
