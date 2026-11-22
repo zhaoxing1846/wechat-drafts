@@ -5,8 +5,8 @@
       "title": "具有感觉适应能力的人工智能嗅觉神经系统",
       "paper": "Jung et al., Nature Communications (2026) 17:9963, DOI 10.1038/s41467-026-76918-1",
       "created_at": "2026-11-22T14:25:00+08:00",
-      "sha256": "77541a58b0916926bae188340b9d80ce749c4943381eafe79f55af2d66826c43",
-      "size_bytes": 2034716,
+      "sha256": "75055d5c4a3f4856b199ddaaa3533ed2f6e8a3bddd8ce23ac9947fcda2834518",
+      "size_bytes": 2034826,
       "format": "zip-base64",
       "path": "jobs/jung2026-aons/package.zip.b64"
     },
