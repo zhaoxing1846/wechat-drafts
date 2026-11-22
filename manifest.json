@@ -1,0 +1,14 @@
+{
+  "jobs": [
+    {
+      "id": "wang2023-v2",
+      "title": "基于忆阻器的人工嗅觉系统：模拟器官损伤与空气净化",
+      "paper": "Wang et al., ACS Sensors 2023, 8, 4810-4817, DOI 10.1021/acssensors.3c02217",
+      "created_at": "2026-11-22T13:19:00+08:00",
+      "sha256": "56d4869fdb1b6dc12e59d86935b63ce9ca5dd3407abe294a12bdc6c20dad589f",
+      "size_bytes": 1345704,
+      "format": "zip-base64",
+      "path": "jobs/wang2023-v2/package.zip.b64"
+    }
+  ]
+}
