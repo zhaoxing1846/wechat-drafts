@@ -1,6 +1,16 @@
 {
   "jobs": [
     {
+      "id": "sciadv-aec7965-mlscent",
+      "title": "16个传感器的单芯片电子鼻：闻出变质食物和坚果过敏原",
+      "paper": "Bassil et al., Science Advances (2026) 12(25), DOI 10.1126/sciadv.aec7965",
+      "created_at": "2026-11-26T20:45:00+08:00",
+      "sha256": "7b6ec540f667b7d28cc19cdda7e0d67da617c658eb77f8086b31758583cf3389",
+      "size_bytes": 1022608,
+      "format": "zip-base64",
+      "path": "jobs/sciadv-aec7965-mlscent/package.zip.b64"
+    },
+    {
       "id": "adma-74191-vobnd",
       "title": "视觉加嗅觉：双模态神经形态器件让气体分类准确率从52%提到98%",
       "paper": "Chang et al., Advanced Materials (2026) 38(49), e74191, DOI 10.1002/adma.74191",
